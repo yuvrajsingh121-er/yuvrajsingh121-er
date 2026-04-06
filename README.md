@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-## <p align="center">
+ <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=422EF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Yuvraj+Singh;A+Passionate+Web+Developer;CS-AIML+Student+at+AKTU;Building+Apna+Garage+Project" alt="Typing SVG" />
   </a>
 </p>
 
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I’m currently persuing B. Tech from CS(AI/ML)<br>👯 I’m looking to collaborate on open source project releted to web dev<br>🤝 I’m looking for help with model deployment<br>🌱 I’m currently learning DSA from Java<br>💬 Ask me about Fronted Devlopment, Java Script<br>⚡ Fun fact code with bhojpuri vibe
 
 
