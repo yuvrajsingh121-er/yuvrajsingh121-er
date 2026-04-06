@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#<p align="center">
+## <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=422EF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Yuvraj+Singh;A+Passionate+Web+Developer;CS-AIML+Student+at+AKTU;Building+Apna+Garage+Project" alt="Typing SVG" />
   </a>
