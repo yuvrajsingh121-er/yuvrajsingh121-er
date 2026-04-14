@@ -20,6 +20,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh121-er&theme=tokyonight)](https://git.io/streak-stats)
 
+## 🐍 My Contribution Snake
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/yuvrajsingh121-er/yuvrajsingh121-er/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvrajsingh121-er&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
