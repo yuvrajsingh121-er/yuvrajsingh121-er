@@ -10,6 +10,17 @@
 ## 💫 About Me:
 🔭 I’m currently persuing B. Tech from CS(AI/ML)<br>👯 I’m looking to collaborate on open source project releted to web dev<br>🤝 I’m looking for help with model deployment<br>🌱 I’m currently learning DSA from Java<br>💬 Ask me about Fronted Devlopment, Java Script<br>⚡ Fun fact code with bhojpuri vibe
 
+## 💼 Portfolio: Selected Projects
+
+<details open>
+<summary><b>🚀 Apna Garage</b> (Web-based Service Aggregator)</summary>
+
+*   **Description:** Full-stack solution to connect local car garages with users seamlessly.
+*   **Tech Stack:** React, Next.js, Node.js, Vercel.
+*   **Impact:** Solved the problem of finding reliable local mechanics in real-time.
+*   **Links:** [🔗 Live Demo](https://apna-garage.vercel.app/) | [📁 Repository](https://github.com/yuvrajsingh121-er/apna-garage)
+</details>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thakur_yuvi_singh_2201?igsh=MTdiMG5wZndkdjZjbQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-699211225) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yuvixtech-er?si=SP7CmJaF2KpmwILp)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ys792608@gmail.com) 
