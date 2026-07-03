@@ -32,15 +32,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh121-er&theme=tokyonight)](https://github.com/yuvrajsingh121-er)
 
 
-### 🏗️ Featured Project: Apna Garage
-*A Web-based Service Aggregator Platform*
-- Developed a full-stack solution to connect local car garages with users.
-- *Tech Stack:* React, Next.js, Node.js, and Vercel.
-- [🔗 Live Demo](https://apna-garage.vercel.app/) | [📁 Repository](https://github.com/yuvrajsingh121-er/apna-garage)
-
----
-
-
 
 ## 🐍 My Contribution Snake
 
